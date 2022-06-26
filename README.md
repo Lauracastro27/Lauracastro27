@@ -4,19 +4,19 @@ Bem Vindo ao meu perfil Github 👋</h1>
 <img align="right" width="300" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" alt="computer and coffee"/>
 
 ```js
-import Developer from 'Laura Castro';
-class AboutMe extends Developer {
-  name     = 'Laura Castro';
-  nickname = 'Lua'
-  age      = 22
-  area   = 'Estudante Web Full Stack';
-  local  = 'São Paulo - Sp';
+import Dev from 'Laura Castro';
+class SobreMim extends Dev {
+  Nome     = 'Laura Castro';
+  Apelido = 'Lua'
+  Idade      = 22
+  Área   = 'Estudante Web Full Stack';
+  Local  = 'São Paulo - Sp';
 }
 
 class Skills extends Developer {
-  languages  = ['JavaScript, SQL, HTML5 and CSS3'];
-  frameworks = ['Bootstrap, React, Node'];
-  tools      = ['Vscode, mySQL, mySQL Workbench, Git and
+  Linguagens  = ['JavaScript, SQL, HTML5 and CSS3'];
+  Frameworks  = ['Bootstrap, React, Node'];
+  Ferramentas = ['Vscode, mySQL, mySQL Workbench, Git and
   GitHub']; 
 }
 ```
@@ -39,14 +39,14 @@ class Skills extends Developer {
    
 </p>
 
-### 📬 Find me at
+### 📬 Fale Comigo:
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lauracastro27)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-castro-89509416b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/laura._.castro27/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](href=mailto:laura2702castro@gmail.com)
 
 
-### My Status <img src="https://media3.giphy.com/media/l46CxDIh6HDiH9ndm/giphy.gif?cid=790b7611aea2f6594b0e363ddc39e1bdf3bbcd3c5a92d9c4&rid=giphy.gif&ct=s" width="50"> 
+### Meus Status <img src="https://media3.giphy.com/media/l46CxDIh6HDiH9ndm/giphy.gif?cid=790b7611aea2f6594b0e363ddc39e1bdf3bbcd3c5a92d9c4&rid=giphy.gif&ct=s" width="50"> 
 
 <p align="center">
   <a href="https://github.com/camimonteiro">
@@ -64,7 +64,7 @@ class Skills extends Developer {
   </a>
 </p>
 
-### <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="40"> Projects / Sprints in progress 
+### <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="40"> Projetos
   
 <p align="center">
   <a href="https://github.com/Lauracastro27/Projeto_Modulo_1">
